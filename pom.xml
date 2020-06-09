@@ -28,7 +28,7 @@
 					<execution>
 						<phase>test</phase>
 						<configuration>
-							<projectFile>REST-XML-soapui-project.xml</projectFile>
+							<projectFile>WSDL-Project-soapui-project.xml</projectFile>
 							<outputFolder>${project.build.directory}/surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>false</printReport>

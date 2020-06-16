@@ -198,3 +198,26 @@
 2020-06-16 09:17:18,041 INFO  [log] []
 2020-06-16 09:17:18,051 INFO  [log] 833
 2020-06-16 09:17:18,458 INFO  [log] [242, 396, 400, 534, 535, 537]
+2020-06-16 11:25:32,160 INFO  [log] {"success":1,"error":[],"data":{"access_token":"2829dd358904800575a2742b485c6bf8fa0f5d81","expires_in":86400,"token_type":"Bearer"}}
+2020-06-16 11:25:32,184 INFO  [log] 2829dd358904800575a2742b485c6bf8fa0f5d81
+2020-06-16 11:25:32,556 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"183.83.129.64","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-06-16 11:25:32,563 INFO  [log] 1
+2020-06-16 11:25:33,229 INFO  [log] {"success":1,"error":[],"data":{"id":839}}
+2020-06-16 11:25:33,229 INFO  [log] 1
+2020-06-16 11:25:33,279 INFO  [log] [OCSESSID=b3d6a588deaa45120881acde47; path=/, language=en-gb; expires=Thu, 16-Jul-2020 05:55:32 GMT; Max-Age=2592000; path=/; domain=rest-api.upskills.in, currency=INR; expires=Thu, 16-Jul-2020 05:55:32 GMT; Max-Age=2592000; path=/; domain=rest-api.upskills.in]
+2020-06-16 11:25:33,308 INFO  [log] 839
+2020-06-16 11:25:33,308 INFO  [log] 1
+2020-06-16 11:25:33,309 INFO  [log] []
+2020-06-16 11:25:33,312 INFO  [log] 839
+2020-06-16 11:25:33,316 INFO  [log] 839
+2020-06-16 11:25:33,638 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":839,"customer_group_id":1,"firstname":"Anusha867.2","lastname":"Usererd","telephone":"1-541-754-3010","email":"Anusha804.0@gmail.com","newsletter":0,"status":1,"approved":"","safe":0,"date_added":"16\/06\/2020","addresses":[],"affiliate":[],"account_custom_field":[],"custom_fields":[],"reward_points":0,"transaction_total":"?0.00"}}
+2020-06-16 11:25:33,644 INFO  [log] 1
+2020-06-16 11:25:34,490 INFO  [log] [242, 396, 400, 534, 535, 537, 322, 574, 674, 692, 725, 675, 659, 687, 546, 658, 576, 682, 669, 688, 668, 656, 665, 693, 572, 672, 678, 681, 661, 670, 667, 676, 578, 660, 563, 679, 579, 657, 548, 545, 577, 683, 662, 677, 664, 673, 663, 671, 684, 686, 691, 680, 839, 551, 666, 547, 567, 573, 279, 280, 281, 282, 283, 780, 550, 786, 735, 732, 562, 789, 784, 782, 694, 731, 791, 736, 787, 783, 730, 785, 497, 788, 790, 737, 781, 696, 552, 695, 738, 729, 127, 91, 95, 101, 111, 67, 69, 73, 129, 138]
+2020-06-16 11:25:35,449 INFO  [log] {"success":1,"error":[],"data":{"id":840}}
+2020-06-16 11:25:35,449 INFO  [log] 840
+2020-06-16 11:25:35,461 INFO  [log] [OCSESSID=bddfba46066d65a7b902aa3a60; path=/, language=en-gb; expires=Thu, 16-Jul-2020 05:55:35 GMT; Max-Age=2592000; path=/; domain=rest-api.upskills.in, currency=INR; expires=Thu, 16-Jul-2020 05:55:35 GMT; Max-Age=2592000; path=/; domain=rest-api.upskills.in]
+2020-06-16 11:25:35,488 INFO  [log] 840
+2020-06-16 11:25:35,488 INFO  [log] 1
+2020-06-16 11:25:35,489 INFO  [log] []
+2020-06-16 11:25:35,492 INFO  [log] 840
+2020-06-16 11:25:35,802 INFO  [log] [242, 396, 400, 534, 535, 537]
